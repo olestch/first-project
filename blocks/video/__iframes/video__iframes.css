@@ -3,5 +3,5 @@
     flex-direction: row;
     justify-content: space-between;
     width: 1050px;
-    height: 250px;
+    margin-bottom: -50px;
 }

@@ -4,5 +4,8 @@
     padding-bottom: 40px;
     min-height: 350px;
     box-sizing: border-box;
-    color:white;  
+    color:white;
+    display:flex;
+    justify-content: center;
+
 }

@@ -1,4 +1,8 @@
 .resources {
     margin-top: 100px;
     margin-bottom: 217px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

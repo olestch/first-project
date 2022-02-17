@@ -2,4 +2,8 @@
     height: 568px;
     width: 568px;
     background-color: #2f80ed;
+    z-index: 0;
+    position: absolute;
+    top: 64;
+    right:0;
   }

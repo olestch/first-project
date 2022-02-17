@@ -2,4 +2,5 @@
     width: 1100px;
     display:flex;
     flex-direction: row;
+    margin-top: 80px;
 }

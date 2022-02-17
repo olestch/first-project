@@ -1,7 +1,0 @@
-.cards__item_position_margin-left {
-    margin-left:100px;
-}
-
-.cards__item_position_margin-left:nth-child(3n+1) {
-    margin-left: 0px;
-}
